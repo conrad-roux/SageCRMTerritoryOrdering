@@ -13,3 +13,5 @@ Completed this code with the help from stackoverflow
 Sources:
 https://stackoverflow.com/questions/12073270/sorting-options-elements-alphabetically-using-jquery
 https://stackoverflow.com/questions/35329658/sort-array-of-objects-with-hierarchy-by-hierarchy-and-name
+
+The blog post can be viewed in Sage City @ 
